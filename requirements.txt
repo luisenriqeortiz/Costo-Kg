@@ -1,0 +1,8 @@
+/costo-kg
+│
+├── Calculadora de costos.py
+├── requirements.txt
+streamlit
+pandas
+plotly
+reportlab
